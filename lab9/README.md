@@ -15,9 +15,10 @@
 12. <img width="857" height="811" alt="изображение" src="https://github.com/user-attachments/assets/72dcbb3f-c7e4-4a75-a189-ae730b8bc479" />
 13. <img width="857" height="295" alt="изображение" src="https://github.com/user-attachments/assets/c31cb7c1-9fee-4429-a2f4-4a027e3dade0" />
 
-# Оценка 4.
+# Ветки.
+1. <img width="526" height="396" alt="изображение" src="https://github.com/user-attachments/assets/37fd87a9-e632-4a8a-a6cf-2f7dd6aac27a" />
+2. 
 
-1. 
 
 
 
