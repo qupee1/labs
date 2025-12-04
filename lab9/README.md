@@ -17,7 +17,17 @@
 
 # Ветки.
 1. <img width="526" height="396" alt="изображение" src="https://github.com/user-attachments/assets/37fd87a9-e632-4a8a-a6cf-2f7dd6aac27a" />
-2. 
+2. <img width="576" height="197" alt="изображение" src="https://github.com/user-attachments/assets/f5f226e4-83c4-47c8-9809-78224f74bde2" />
+3. <img width="576" height="135" alt="изображение" src="https://github.com/user-attachments/assets/d93b1873-1a82-4ca4-a16f-354d312f11cd" />
+4. <img width="576" height="425" alt="изображение" src="https://github.com/user-attachments/assets/230d0763-ee89-4129-be44-8799f94a04af" />
+5. <img width="623" height="502" alt="изображение" src="https://github.com/user-attachments/assets/d041fcbf-6a95-46f1-ab69-59957ad80717" />
+6. <img width="532" height="268" alt="изображение" src="https://github.com/user-attachments/assets/e6cf0e01-bb6c-4831-933d-55a1b8596994" />
+7. 
+
+ 
+
+
+
 
 
 
