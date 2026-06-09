@@ -3,8 +3,8 @@
 #include <vector>
 #include <stack>
 
-constexpr int WIDTH      = 200;
-constexpr int HEIGHT     = 150;
+constexpr int WIDTH      = 800;
+constexpr int HEIGHT     = 600;
 constexpr int PIXEL_SIZE = 4;
 
 using Canvas = std::vector<std::vector<sf::Color>>;

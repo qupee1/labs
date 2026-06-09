@@ -1,0 +1,3 @@
+/mnt/c/Users/qp/programming/labs-1/18/grade-3/build/CMakeFiles/paint.dir
+/mnt/c/Users/qp/programming/labs-1/18/grade-3/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/qp/programming/labs-1/18/grade-3/build/CMakeFiles/rebuild_cache.dir
