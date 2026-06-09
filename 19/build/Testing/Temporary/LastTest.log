@@ -1,0 +1,66 @@
+Start testing: Jun 09 10:04 +07
+----------------------------------------------------------
+1/3 Testing: test_card
+1/3 Test: test_card
+Command: "/mnt/c/Users/qp/programming/labs-1/19/build/test_card"
+Directory: /mnt/c/Users/qp/programming/labs-1/19/build
+"test_card" start time: Jun 09 10:04 +07
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 3 | 3 passed | 0 failed | 0 skipped
+[doctest] assertions: 8 | 8 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_card" end time: Jun 09 10:04 +07
+"test_card" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/3 Testing: test_account
+2/3 Test: test_account
+Command: "/mnt/c/Users/qp/programming/labs-1/19/build/test_account"
+Directory: /mnt/c/Users/qp/programming/labs-1/19/build
+"test_account" start time: Jun 09 10:04 +07
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 5 | 5 passed | 0 failed | 0 skipped
+[doctest] assertions: 6 | 6 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_account" end time: Jun 09 10:04 +07
+"test_account" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/3 Testing: test_journal
+3/3 Test: test_journal
+Command: "/mnt/c/Users/qp/programming/labs-1/19/build/test_journal"
+Directory: /mnt/c/Users/qp/programming/labs-1/19/build
+"test_journal" start time: Jun 09 10:04 +07
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 2 | 2 passed | 0 failed | 0 skipped
+[doctest] assertions: 6 | 6 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_journal" end time: Jun 09 10:04 +07
+"test_journal" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 09 10:04 +07

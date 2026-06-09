@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test_account.dir/atm/tests/test_account.cpp.o CMakeFiles/test_account.dir/atm/card.cpp.o CMakeFiles/test_account.dir/atm/account.cpp.o CMakeFiles/test_account.dir/atm/transaction.cpp.o CMakeFiles/test_account.dir/atm/journal.cpp.o CMakeFiles/test_account.dir/atm/recovery.cpp.o CMakeFiles/test_account.dir/atm/file_storage.cpp.o -o test_account 

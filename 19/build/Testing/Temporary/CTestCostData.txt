@@ -1,0 +1,4 @@
+test_card 1 0.012758
+test_account 1 0.0158211
+test_journal 1 0.0135303
+---
